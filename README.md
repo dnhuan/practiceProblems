@@ -6,3 +6,5 @@
 3. Find the integer multiple between a and b [Solved](Matlab/integerMultiple.m)
 4. Find the integer factor between a and b [Solved](Matlab/integerFactor.m)
 5. Determine if a number n is a prime or not [Solved](Matlab/prime.m)
+6. Python problem set 1 [Solved](Python/ProblemSet1.py)
+6. Python problem set 2 [Solved](Python/ProblemSet2.py)
